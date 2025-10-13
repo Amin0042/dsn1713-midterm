@@ -3,6 +3,8 @@
 /* Set custom variables here */
 :root {
   --bs-nav-link-color: red;
+  --bs-body-bg: hsl(40, 33%, 95%);
+  --bs-success: hsl(0, 100%, 20%);
 }
 
 body {
@@ -21,7 +23,7 @@ h3 {
 #hero {
   height: 800px;
   background-color: #e4e6db;
-  background-image: url(../images/hero-bg-img.png);
+  background-image: url("../Image/hero-bg-img.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
